@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FERQOS
-- 👀 I’m interested in routing, cisco, Monitoring, Networking
-- 🌱 I’m currently learning IPV6
-- 💞️ I’m looking to collaborate on the things that reach´s me
-- 📫 How to reach me mail
+- 👋 Buenas soy @FERQOS
+- 👀 Cosas que me gustan manejo y operacion de ruteo de redes en gral, tratamiento de trafico de red, configuracion de servicios desde el Punto de Acceso hasta el ultimo punto de conexion a Internet.
+- 🌱 Actualmente me estoy haciendo amigo de AWX, GitLab y Python.
+- 💞️ Actualmente estoy buscando terminar lo que empiezo
+- 📫 Por consultas me mandas un mensaje de alguna manera
 
 <!---
 FERQOS/FERQOS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
